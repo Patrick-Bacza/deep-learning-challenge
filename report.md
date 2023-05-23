@@ -4,7 +4,7 @@
 
     This analysis is being undetaken for the Alphabet Soup Foundation. Every Year, Alphabet Soup gets applications from business entities looking for fudning for their company and they want to imporve their chasnces of selecting sucessful business ventures to fund. In orde to help them imporve, I will compiling a neural network that will predict the likelihood that a business will succeed if it receives funding.
 
-    While analyzing the data I saw that 25,394 of the applicant were asking for$5,000.00 in funding. I decided it woulod best to focus the analysis in these companies as they make up the bulk of the foundations applicants. Thus, The model I am building will predict the likelihood that a company asking for $5,000.00 in funding will succeed.
+    While analyzing the data I saw that 25,394 of the applicant were asking for$5,000.00 in funding. I decided it would be best to focus the analysis in these companies as they make up the bulk of the foundations applicants. Thus, The model I am building will predict the likelihood that a company asking for $5,000.00 in funding will succeed.
 
 ### Results
 

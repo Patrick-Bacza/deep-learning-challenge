@@ -26,7 +26,7 @@ Second,  I had to decrease the amount of application types and classifications. 
 
 Finally, 
 
-    I started with one hidden layer and move up to three before settling on two. Furthermore, I experimented with changing the neurons through trial and error before I was able to come up with a model that hit the target accuracy.
+    I started with one hidden layer and move up to three before settling on two. Furthermore, I experimented with changing the neurons through trial and error before I was able to come up with a model that hit the target accuracy. Below is picture of the test results
 
 
 ![1684899589891](image/report/1684899589891.png)
